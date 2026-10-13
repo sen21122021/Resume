@@ -35,7 +35,7 @@ A fabricated metric gets exposed in the first interview question about it, and i
   - Projects (move it above Education when it's a key part of the case, e.g. for career changers or new grads)
 - The contact line holds: name, city/region, phone, email, LinkedIn, and a portfolio or GitHub link only if relevant to the role. Leave out the full street address, photo, date of birth, and marital status, unless the user says the target country expects them.
 - Each role's header line: **Title**, Company, Location, `MMM YYYY – MMM YYYY` (or `– Present`). Use the same date format everywhere, and list roles in reverse chronological order.
-- Spell out each acronym once, next to its short form, e.g. "Search Engine Optimization (SEO)". People and parsers search both.
+- Where the posting uses a domain acronym or its long form, write both once, e.g. "Search Engine Optimization (SEO)", because people and parsers search for both. Leave universally known tool and technology names as they are: SQL, AWS, and Excel, not "Structured Query Language (SQL)".
 - Use plain `-` bullets. In Markdown, use `#` for the name, `##` for section headings, and `###` or bold for role lines, so pandoc exports cleanly.
 
 ## 3. Length
