@@ -1,0 +1,11 @@
+# Personal data stays on your machine. This repository is PUBLIC, and resumes
+# hold your phone number, email, and work history.
+# If you make the repo private and want your results versioned, delete these lines.
+resume/*
+!resume/.gitkeep
+jobs/*
+!jobs/.gitkeep
+applications/*
+!applications/.gitkeep
+
+.DS_Store
