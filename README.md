@@ -91,4 +91,4 @@ This repository is **public**. `resume/`, `jobs/`, and `applications/` are gitig
 
 ## Cost
 
-One run is 9 reviewer passes (7, plus 2 in the re-screen) and a short company research step. That uses your Claude Code usage, roughly like a medium-sized coding task.
+One run is 9 reviewer passes (7, plus 2 in the re-screen) and a short company research step. It takes about 5 minutes. A test run on a one-page resume cost about $1.50 in API-equivalent usage. On a Claude subscription it counts toward your normal Claude Code usage.

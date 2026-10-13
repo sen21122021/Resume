@@ -107,6 +107,7 @@ Use this prompt for each one. Include an "extra file" line only when that file e
 ```
 Company: <Company>
 Role: <Role title>
+Today's date: <YYYY-MM-DD>   (use it for tenure, gaps, and "Present" roles)
 
 Read ONLY these files:
 - Job description: <WS>/job-description.md
